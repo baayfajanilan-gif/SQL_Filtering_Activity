@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `butlig_edgardo`
+-- Database: `fajanilan_christian`
 --
 CREATE DATABASE IF NOT EXISTS `butlig_edgardo` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `butlig_edgardo`;
+USE `fajanilan_christian`;
 
 -- --------------------------------------------------------
 
